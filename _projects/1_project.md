@@ -97,9 +97,9 @@ Tie blankets are little blankets made to help keep animals warm and comfortable 
 </div>
 
 
-### Working with Brownies
+### Working with Brownies Troop 382
 
-We worked with Brownies to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already kenw how to tie a square knot.  To make tie blankets you have to tie a certain knot, and a square not.  Althought some wehre unsure they caught on quickly.
+We worked with Brownies Troop 382 to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already kenw how to tie a square knot.  To make tie blankets you have to tie a certain knot, and a square not.  Althought some wehre unsure they caught on quickly.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
