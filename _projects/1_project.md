@@ -1,17 +1,19 @@
 ---
-layout: page
+layout: distill
 title: Saving Native Wildlife
 description: Evelynn's Wildlife Refuge Support
 img: assets/img/being_used.jpg
 importance: 1
 category: work
----
 
-## Table of Contents
-1. [Introduction](## Introduction)
-2. [Evelynn's Wildlife Refuge](## Evelynn's Wildlife Refuge)
-3. [How You Can Help](## How You Can Help)
-4. [Bronze Project Award Accomplishments](## Bronze Project Award Accomplishments)
+toc:
+  - name: Introduction
+  - name: Evelynn's Wildlife Refuge
+  - name: How You Can Help
+  - name: Bronze Project Award Accomplishments
+  - name: The Results
+
+---
 
 ## Introduction 
 
@@ -116,7 +118,7 @@ We worked with Brownies Troop 382 to make tie blankets.  We made a couple dozen 
     Building the Den Boxes
 </div>
 
-### The End Result
+## The Results
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
