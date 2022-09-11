@@ -2,18 +2,24 @@
 layout: page
 title: Saving Native Wildlife
 description: Evelynn's Wildlife Refuge Support
-img: assets/img/otter.jpg
+img: assets/img/being_used.jpg
 importance: 1
 category: work
 ---
 
+## Table of Contents
+1. [Introduction](## Introduction)
+2. [Evelynn's Wildlife Refuge](## Evelynn's Wildlife Refuge)
+3. [How You Can Help](## How You Can Help)
+4. [Bronze Project Award Accomplishments](## Bronze Project Award Accomplishments)
+
 ## Introduction 
 
-For their Bronze Project Award, Troop 522 wanted to raise awareness for Saving Native wildlife. The troop collected donations and built shelters to benefit Evelyn’s Wildlife Refuge in Suffolk, VA. 
+For our Bronze Project Award, Troop 522 wanted to raise awareness for Saving Native wildlife. The troop collected donations and built shelters to benefit Evelyn’s Wildlife Refuge in Suffolk, VA. 
 
 ## Evelynn's Wildlife Refuge
 
-Evelyn’s Wildlife Refuge is an animal rescue for many kinds of animals from racoons to otters, foxes, ext. This Refuge is a non-profit organization. They rehabilitate animals that may have been injured, sick, or don’t have a home. They have operated for over 25 years.
+Evelynn’s Wildlife Refuge is an animal rescue for many kinds of animals from racoons to otters, foxes, ext. This Refuge is a non-profit organization. They rehabilitate animals that may have been injured, sick, or don’t have a home. They have operated for over 25 years.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -120,3 +126,18 @@ We worked with Brownies to make tie blankets.  We made a couple dozen blankets w
 <div class="caption">
     The Completed Materials Donated
 </div>
+
+A fox making use of one of the den boxes!
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/being_used.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A fox making use of one of the den boxes!
+</div>
+
+
+
+Thank you Robert Kirkpatrick for assisting with this website.
