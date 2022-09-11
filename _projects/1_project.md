@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Saving Native Wildlife
-description: Evelynn's Wildlife Refuge Support
+description: Evelyn's Wildlife Refuge Support
 img: assets/img/being_used.jpg
 importance: 1
 category: Bronze Award
@@ -15,9 +15,15 @@ authors:
 
 toc:
   - name: Introduction
-  - name: Evelynn's Wildlife Refuge
-  - name: How You Can Help
+  - name: Evelyn's Wildlife Refuge
+    - name: About
+    - name: Our Visit
+    - name: How You Can Help
+    - name: Examples of Animals in Need
   - name: Bronze Project Award Accomplishments
+    - name: What We Made - Denboxes
+    - name: What We Made - Tie Blankets
+    - name: Working with Brownie Troop 382
   - name: The Results
 
 ---
@@ -26,9 +32,10 @@ toc:
 
 For our Bronze Project Award, Troop 522 wanted to raise awareness for Saving Native wildlife. The troop collected donations and built shelters to benefit Evelyn’s Wildlife Refuge in Suffolk, VA. 
 
-## Evelynn's Wildlife Refuge
+## Evelyn's Wildlife Refuge
 
-Evelynn’s Wildlife Refuge is an animal rescue for many kinds of animals from racoons to otters, foxes, ext. This Refuge is a non-profit organization. They rehabilitate animals that may have been injured, sick, or don’t have a home. They have operated for over 25 years.
+### About
+Evelyn’s Wildlife Refuge is an animal rescue for many kinds of animals from racoons to otters, foxes, ext. This Refuge is a non-profit organization. They rehabilitate animals that may have been injured, sick, or don’t have a home. They have operated for over 25 years.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,11 +52,27 @@ Evelynn’s Wildlife Refuge is an animal rescue for many kinds of animals from r
     Animals at the Refuge
 </div>
 
+### Our Visit
+
+Our troop went to a rehabber that works with Evelyn’s Wildlife Refuge and we got to see baby racoons. We got to name the youngest and most adorable racoon Striper. It was hard to believe that this racoon was orphaned. We got to see all the baby racoons in a playpen. We got to see the toys that the rehabber used and how the racoons were taken care of. We also got to see pictures of some of the other rescued animals.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/baby_racoon2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/baby_racoon.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Striper the Rescued Racoon
+</div>
+
 ## How You Can Help 
 
 You can support by making donations (see supply list). You can also take care of native wildlife in your area by planting trees and native flowers, don’t touch any wildlife just leave it be, and leave the wildlife better than  you found it.
 
-### Examples
+### Examples of Animals in Need
 
 * An animal gets hit by a car or run over.
 * A baby gets separated from its parents.
@@ -106,9 +129,9 @@ Tie blankets are little blankets made to help keep animals warm and comfortable 
 </div>
 
 
-### Working with Brownies Troop 382
+### Working with Brownie Troop 382
 
-We worked with Brownies Troop 382 to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already kenw how to tie a square knot.  To make tie blankets you have to tie a certain knot, and a square not.  Althought some wehre unsure they caught on quickly.
+We worked with Brownie Troop 382 to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already kenw how to tie a square knot.  To make tie blankets you have to tie a certain knot, and a square not.  Althought some wehre unsure they caught on quickly.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
