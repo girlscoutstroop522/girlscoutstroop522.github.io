@@ -4,7 +4,14 @@ title: Saving Native Wildlife
 description: Evelynn's Wildlife Refuge Support
 img: assets/img/being_used.jpg
 importance: 1
-category: work
+category: Bronze Award
+date: 2022-09-11
+
+authors:
+  - name: Girl Scouts Troop 522
+    url: "https://www.gsccc.org/"
+    affiliations:
+      name: gsccc
 
 toc:
   - name: Introduction

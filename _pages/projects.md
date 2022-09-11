@@ -5,8 +5,8 @@ permalink: /projects/
 description: A showcase of Troop 522 Projects
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [Bronze Award, fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
