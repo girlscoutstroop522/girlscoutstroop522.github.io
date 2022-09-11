@@ -67,6 +67,9 @@ Our troop went to a rehabber that works with Evelyn’s Wildlife Refuge and we g
 
 You can support by making donations (see supply list). You can also take care of native wildlife in your area by planting trees and native flowers, don’t touch any wildlife just leave it be, and leave the wildlife better than  you found it.
 
+Visit:
+[Evelyn's Wildlife Refuge - Get Involve](http://www.evelynswildliferefuge.org/Get-Involved)
+
 ### Examples of Animals in Need
 
 * An animal gets hit by a car or run over.
