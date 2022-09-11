@@ -16,14 +16,9 @@ authors:
 toc:
   - name: Introduction
   - name: Evelyn's Wildlife Refuge
-    - name: About
-    - name: Our Visit
-    - name: How You Can Help
-    - name: Examples of Animals in Need
+  - name: How You Can Help
+  - name: Examples of Animals in Need
   - name: Bronze Project Award Accomplishments
-    - name: What We Made - Denboxes
-    - name: What We Made - Tie Blankets
-    - name: Working with Brownie Troop 382
   - name: The Results
 
 ---
@@ -68,7 +63,7 @@ Our troop went to a rehabber that works with Evelyn’s Wildlife Refuge and we g
     Striper the Rescued Racoon
 </div>
 
-## How You Can Help 
+### How You Can Help 
 
 You can support by making donations (see supply list). You can also take care of native wildlife in your area by planting trees and native flowers, don’t touch any wildlife just leave it be, and leave the wildlife better than  you found it.
 
@@ -93,9 +88,7 @@ You can support by making donations (see supply list). You can also take care of
 
 ## Bronze Project Award Accomplishments
 
-### What We made
-
-#### Den Boxes
+### What We made - Den Boxes
 We each painted our boxes with bright colors and designs. A total of 12 boxes were made.  Den boxes are wooden enclosures to simulate dens and burrows for animals in captivity such as: Foxes, Racoons, and Rabits.
 
 <div class="row">
@@ -115,7 +108,7 @@ We each painted our boxes with bright colors and designs. A total of 12 boxes we
 
 
 
-#### Tie Blankets
+### What We made - Tie Blankets
 
 Tie blankets are little blankets made to help keep animals warm and comfortable in their new habitat.
 
@@ -172,4 +165,4 @@ A fox making use of one of the den boxes!
 
 
 
-Thank you Robert Kirkpatrick for assisting with this website.
+A special thanks to Robert Kirkpatrick for assisting with this website.
