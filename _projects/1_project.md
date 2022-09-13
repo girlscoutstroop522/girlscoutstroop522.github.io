@@ -76,7 +76,7 @@ Visit:
 * A baby gets separated from its parents.
 * If an animal (bird that can’t fly yet) falls from a tree and gets hurt.
 * A bone or shell is broken or cracked.
-* If the animal has a possibly deadly disease that effects them.
+* If the animal has a possibly deadly disease that affects them.
 * If it can’t fend for itself anymore.
 
 <div class="row">
@@ -92,7 +92,7 @@ Visit:
 ## Bronze Project Award Accomplishments
 
 ### What We made - Den Boxes
-We each painted our boxes with bright colors and designs. A total of 12 boxes were made.  Den boxes are wooden enclosures to simulate dens and burrows for animals in captivity such as: Foxes, Racoons, and Rabits.
+We each painted our boxes with bright colors and designs. A total of 12 boxes were made.  Den boxes are wooden enclosures to simulate dens and burrows for animals in captivity such as: Foxes, Racoons, and Rabbits.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -127,7 +127,7 @@ Tie blankets are little blankets made to help keep animals warm and comfortable 
 
 ### Working with Brownie Troop 382
 
-We worked with Brownie Troop 382 to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already kenw how to tie a square knot.  To make tie blankets you have to tie a certain knot, and a square not.  Althought some wehre unsure they caught on quickly.
+We worked with Brownie Troop 382 to make tie blankets.  We made a couple dozen blankets with fun, colorful patters, big and small. It was not a challenge to teach them how because some already knew how to tie a square knot.  To make tie blankets you have tie a certain knot, and a square knot.  Although some were unsure, they caught on quickly.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
